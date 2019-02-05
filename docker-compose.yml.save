@@ -1,0 +1,15 @@
+dclkdnvkndvkndvkversion: '2'
+services:
+    mongo:
+        container_name: mongo
+        image: mongo
+        ports:
+         - "27017:27017"
+    app:
+        container_name: app
+        restart: always
+        depends_on:
+         - "mongo"
+        build: .
+        ports:
+         - "4001:4001"

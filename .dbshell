@@ -1,0 +1,40 @@
+show databases;
+show databases;
+use aws
+db.users.insertOne({name: "Kartik", phone: 9911909855})
+db.users.insert({name: "Kartik", phone: 9911909855})
+db.users.find();
+show databases
+use aws
+db.users.find()
+use aws
+db.users.find()
+show databases
+show databases
+use aws
+db.users.find()
+use aws
+db.users.find();
+use aws
+db.users.insert({name: "Prateek", phone: 123423});
+db.users.find();
+use aws
+db.users.find();
+use aws
+db.users().find();
+db.users.find();
+use awd
+use aws
+db.users.find()
+db.users.insert({name: "Kejri", phone: 123213});
+db.users.find()
+db.users.find()
+db.users.insert({name: "Kejri", phone: 123213});
+us eaws
+usw aws
+use aws
+db.users.find()
+use aws
+db.users.find();
+use aws
+db.users.find();
